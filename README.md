@@ -1,3 +1,3 @@
-# CPSC 221 - Algorithm Design 
+# Algorithm Design 
 
 Collection of projects.
